@@ -3,5 +3,6 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("AUla 05");
         System.out.println("Fatec Ferraz");
+        System.out.println("Aula de POO");
     }
 }

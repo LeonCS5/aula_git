@@ -5,5 +5,6 @@ public class App {
         System.out.println("Fatec Ferraz");
         System.out.println("Aula de POO - sobre o git e o github");
         System.out.println("Aula de versionamento de codigo");
+        System.out.println("estou louco");
     }
 }
